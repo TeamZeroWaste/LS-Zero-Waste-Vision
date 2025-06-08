@@ -67,3 +67,8 @@ To install OpenCV, just go to the command-line and type the following commands:
 #### Getting started With OpenCV
 1. [Working With Images- Let's get started 😌](https://www.geeksforgeeks.org/reading-image-opencv-using-python/)
 2. [Image Processing](https://www.geeksforgeeks.org/opencv-python-tutorial/#-22-image-processing): Till Grayscaling of images
+
+#### 📺 **Video Resources for Visual Learners**
+If you prefer learning by watching, check out these excellent video tutorials:
+1. [Working with Images- open image in new window](https://youtu.be/h6qwuud9FTY?feature=shared)
+2. [Image Processing- Grayscale](https://youtu.be/yrDQ6pXdq30?feature=shared)
