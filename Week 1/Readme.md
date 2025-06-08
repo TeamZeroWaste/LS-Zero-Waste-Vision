@@ -38,4 +38,14 @@ Our objective this week is simple: **understand how images work at the pixel lev
 ### Getting familiar with Jupyter Notebook
 [Jupyter Notebook Tutorial](https://www.youtube.com/watch?v=5pf0_bpNbkw)
 
-### Open CV 
+### OpenCV 
+Make sure the latest version python and pip (python package installer) is already installed on your device.  
+  
+To install OpenCV, just go to the command-line and type the following commands:
+1. On Windows/MacOS: **pip install opencv-python**
+2. On Linux: **pip3 install opencv-python**
+3. [Set up Opencv with anaconda environment](https://www.geeksforgeeks.org/set-opencv-anaconda-environment/)
+
+#### Getting started With OpenCV
+1. [Working With Images- Let's get start](https://www.geeksforgeeks.org/reading-image-opencv-using-python/)
+2. [Image Processing](https://www.geeksforgeeks.org/opencv-python-tutorial/#-22-image-processing): Till Grayscaling of images
