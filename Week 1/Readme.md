@@ -40,7 +40,7 @@ For a machine, there’s no racoon. Just [34, 76, 123], repeated thousands or mi
 
 [What is a Digital Image](https://www.geeksforgeeks.org/what-do-you-mean-by-digital-image/): Go through the material till Technical aspects of digital Images (inclusive).
 ## 📝 Content for this Week
-Our objective this week is simple: **understand how images work at the pixel level**, and learn how to manipulate them using code.  
+Our objective this week is simple: **understand how images work at the pixel level**, and learn how to work with them using code.  
 ### Installation of Jupyter Notebook on your machine (follow any one of them)
 1. [install Jupyter Notebook for Windows](https://www.youtube.com/watch?v=HLD-Ll_-IT4)
 2. [Setting up Conda environment with Jupyter Notebook ](https://www.youtube.com/watch?v=WUeBzT43JyY)  
