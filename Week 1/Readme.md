@@ -22,6 +22,32 @@ Computer vision is the bridge between those two ways of seeing.
   
 [Applications of Computer Vision](https://www.geeksforgeeks.org/applications-of-computer-vision/)
 
+## 🧮 Quick Introduction to NumPy for Computer Vision
+
+NumPy is the backbone of image processing in Python! In OpenCV and YOLOv8, every image is just a NumPy array—a grid of numbers where each number represents a pixel’s color or intensity. This makes it super easy and fast to manipulate images.
+
+**Key NumPy skills for OpenCV & YOLOv8:**
+
+- **Accessing pixels:**  
+  `pixel = img[100, 50]  # Get the pixel at row 100, column 50`
+
+- **Cropping regions:**  
+  `roi = img[100:200, 150:250]  # Crop a region (rows 100-199, cols 150-249)`
+
+- **Changing pixel values:**  
+  `img[100, 50] = [0, 255, 0]  # Set pixel to green (for color images)`
+
+- **Masking:**  
+  `img[mask == 0] = 0  # Set all pixels where mask is zero to black`
+
+- **Normalizing pixel values:**  
+  `img = img / 255.0  # Scale all pixel values to the range 0-1`
+
+- **Shape and size:**  
+  `h, w, c = img.shape  # Get image height, width, and channels`
+
+With these basics, you can slice, dice, and transform images, process regions of interest, and work with detection results—all with just a few lines of code!
+
 ## 🧮 What is an Image (to a Machine)?
 An image, for a computer, is a grid (or matrix) of pixels. Each pixel represents a color value. In a color image:
 * Each pixel has 3 values (called as **channels**): Red, Green, Blue (RGB).
