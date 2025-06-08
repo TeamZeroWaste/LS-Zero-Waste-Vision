@@ -70,11 +70,14 @@ To install OpenCV, just go to the command-line and type the following commands:
 
 #### 📺 **Video Resources for Visual Learners**
 Hey learners! To make your journey with OpenCV both fun and effective, we've curated a comprehensive playlist packed with everything you need to master image processing
+
 ✨ **Start with these two must-watch videos:**
 1. [Working with Images- open image in new window](https://youtu.be/h6qwuud9FTY?feature=shared)
 2. [Image Processing- Grayscale](https://youtu.be/yrDQ6pXdq30?feature=shared)
+   
 🔗 **Explore the full playlist here:**
 [Basics of OpenCV](https://youtube.com/playlist?list=PLBSCvBlTOLa8rd3KQMoeHwjZVmLdB77l9&feature=shared)
+
 💡 **Tip:** Watch the highlighted videos first to build a strong foundation, then dive into the rest of the playlist at your own pace.
 
 Happy learning! 🚀
