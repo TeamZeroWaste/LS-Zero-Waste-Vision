@@ -35,3 +35,5 @@ Our objective this week is simple: **understand how images work at the pixel lev
 3. [Getting Started with Jupyter Notebooks in VS Code ](https://www.youtube.com/watch?v=suAkMeWJ1yE)
 4. [Installation of Jupyter Notebook in MacOS](https://www.youtube.com/watch?v=pkjtbnsX7Yw)
 5. [Installation of Jupyter Notebook on Linux](https://www.youtube.com/watch?v=dFIlItQ137c)
+### Getting familiar with Jupyter Notebook
+[Jupyter Notebook Tutorial](https://www.youtube.com/watch?v=5pf0_bpNbkw)
