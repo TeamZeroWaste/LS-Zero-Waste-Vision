@@ -28,4 +28,10 @@ So, for a 100x100 image:
 The image you're viewing right now on your screen is really just numbers stored in a file format like .png or .jpg, decoded and rendered to look like what your brain would expect.  
 For a machine, there’s no racoon. Just [34, 76, 123], repeated thousands or millions of times.
 ## 🔍 This Week’s Focus
-Our objective this week is simple: **understand how images work at the pixel level**, and learn how to manipulate them using code.
+Our objective this week is simple: **understand how images work at the pixel level**, and learn how to manipulate them using code.  
+### Installation of Jupyter Notebook on your machine (follow any one of them)
+1. [install Jupyter Notebook for Windows](https://www.youtube.com/watch?v=HLD-Ll_-IT4)
+2. [Setting up Conda environment with Jupyter Notebook ](https://www.youtube.com/watch?v=WUeBzT43JyY)  
+3. [Getting Started with Jupyter Notebooks in VS Code ](https://www.youtube.com/watch?v=suAkMeWJ1yE)
+4. [Installation of Jupyter Notebook in MacOS](https://www.youtube.com/watch?v=pkjtbnsX7Yw)
+5. [Installation of Jupyter Notebook on Linux](https://www.youtube.com/watch?v=dFIlItQ137c)
