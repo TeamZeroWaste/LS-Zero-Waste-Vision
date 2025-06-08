@@ -1,5 +1,6 @@
 <h1> Team Zero Waste: Computer Vision </h1>
-<h4>For when you want Vision but aren’t Wanda.</h4>
+<h2>For when you want Vision but aren’t Wanda.</h2>
+
 <p>Welcome to Zero Waste Vision: a chill, 4-week self-paced intro to computer vision. We’ll start from square one (literally, pixels) and show you how images are just numbers in disguise. From reading and tweaking images to playing with webcam feeds and deploying YOLOv8 for object detection, you’ll teach your code to see the world—no chaos magic required.</p>
 
 Wanda rewrote reality with her mind. You? You’ll do it with code. This summer, ditch the drama and embrace the pixels because we’re teaching you how to make machines see using OpenCV, Python, and YOLOv8. It’s 4 weeks of no-pressure, slightly magical computer vision, minus the emotional breakdowns (we hope).
@@ -24,7 +25,7 @@ Side Effects May Include:
 No prior experience. No heartbreak arcs. Just pure code magic.
 Because let’s face it—Wanda walked so your webcam could run. 
 
-<h3>Weekly Time </h3>
+<h3>Weekly Time Commitment</h3>
 6-7 hours/week, depending on how deep you wanna go:
 - 2-3 hours watching/reading handpicked tutorials
 - 1–2 hours coding + experimentation
