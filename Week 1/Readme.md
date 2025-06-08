@@ -49,9 +49,6 @@ Our objective this week is simple: **understand how images work at the pixel lev
 5. [Installation of Jupyter Notebook on Linux](https://www.youtube.com/watch?v=dFIlItQ137c)
 ### Getting familiar with Jupyter Notebook
 [Jupyter Notebook Tutorial](https://www.youtube.com/watch?v=5pf0_bpNbkw)
-### Introduction to Computer Vision
-
-
 ### OpenCV 
 OpenCV (Open Source Computer Vision), a cross-platform and free to use library of functions is based on real-time Computer Vision which supports Deep Learning frameworks that aids in image and video processing. In Computer Vision, the principal element is to extract the pixels from the image to study the objects and thus understand what it contains. Below are a few key aspects that Computer Vision seeks to recognize in the photographs:
 
