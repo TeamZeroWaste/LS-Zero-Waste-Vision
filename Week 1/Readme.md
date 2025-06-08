@@ -47,5 +47,5 @@ To install OpenCV, just go to the command-line and type the following commands:
 3. [Set up Opencv with anaconda environment](https://www.geeksforgeeks.org/set-opencv-anaconda-environment/)
 
 #### Getting started With OpenCV
-1. [Working With Images- Let's get start](https://www.geeksforgeeks.org/reading-image-opencv-using-python/)
+1. [Working With Images- Let's get started 😌](https://www.geeksforgeeks.org/reading-image-opencv-using-python/)
 2. [Image Processing](https://www.geeksforgeeks.org/opencv-python-tutorial/#-22-image-processing): Till Grayscaling of images
