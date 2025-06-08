@@ -37,3 +37,5 @@ Our objective this week is simple: **understand how images work at the pixel lev
 5. [Installation of Jupyter Notebook on Linux](https://www.youtube.com/watch?v=dFIlItQ137c)
 ### Getting familiar with Jupyter Notebook
 [Jupyter Notebook Tutorial](https://www.youtube.com/watch?v=5pf0_bpNbkw)
+
+### Open CV 
