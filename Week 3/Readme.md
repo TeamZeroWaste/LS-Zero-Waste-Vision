@@ -52,14 +52,17 @@ You can use YOLOv8 from the command line or directly in Python. Here’s how sim
 
 **Python Example:**
 
-`from ultralytics import YOLO`
+```python
+from ultralytics import YOLO
 
-`Load a pretrained model (nano version is very fast)`
-`model = YOLO("yolov8n.pt")`
+Load a pretrained model (nano version is very fast)
+model = YOLO("yolov8n.pt")
 
-`Predict on an image`
-`results = model("https://ultralytics.com/images/bus.jpg")`
-`results.show() # Show the detection result`
+Predict on an image
+results = model("https://ultralytics.com/images/bus.jpg")
+results.show() # Show the detection result
+```
+
 - **What happens here?** The model finds all objects in the image, draws boxes around them, and labels each one (like “bus”, “person”, “car”).
 - You can use YOLOv8 on your webcam, videos, or train it on your own images!
 
