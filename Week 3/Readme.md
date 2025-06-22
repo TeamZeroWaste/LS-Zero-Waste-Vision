@@ -39,7 +39,7 @@ Getting started is easy!
 Just make sure you have Python 3.8+ and pip installed.
 
 **Install YOLOv8 with one command:**
-pip install ultralytics
+`pip install ultralytics`
 
 If you’re using Google Colab or Jupyter Notebook, just run the same command in a cell.
 
@@ -50,14 +50,14 @@ If you’re using Google Colab or Jupyter Notebook, just run the same command in
 You can use YOLOv8 from the command line or directly in Python. Here’s how simple it is:
 
 **Python Example:**
-from ultralytics import YOLO
+`from ultralytics import YOLO
 
 Load a pretrained model (nano version is very fast)
 model = YOLO("yolov8n.pt")
 
 Predict on an image
 results = model("https://ultralytics.com/images/bus.jpg")
-results.show() # Show the detection result
+results.show() # Show the detection result`
 - **What happens here?** The model finds all objects in the image, draws boxes around them, and labels each one (like “bus”, “person”, “car”).
 - You can use YOLOv8 on your webcam, videos, or train it on your own images!
 
