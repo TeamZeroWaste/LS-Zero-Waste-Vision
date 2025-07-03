@@ -8,6 +8,7 @@ These are the links which were mentioned in the assignment:
 * **Open Images Dataset**:[Waste Container Dataset](https://storage.googleapis.com/openimages/web/visualizer/index.html?type=detection&set=train&c=%2Fm%2F0bjyj5)
 * **cvat.ai for Data Annotation**: [cvat.ai](https://www.cvat.ai/)
 
+***The deadline for the project submission is 11:59 pm, 6th July. No further extension for the submission will be provided.***  
 This is the finale – a chance to get your feet wet, apply everything you’ve learned, and gain some experience with some real-world computer vision tools. So, go nuts from here on out! If you find cool stuff that's not directly related, don't worry about it – just explore, play around, and above all, have fun learning.  
   
 Good luck, and we look forward to seeing what you come up with!🍀       
